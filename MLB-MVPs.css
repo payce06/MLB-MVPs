@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    background: linear-gradient(to bottom, #001f3f, #001830) !important;
+
+}
+
+.container {
+    margin: 0;
+    background: linear-gradient(to bottom, #001f3f, #001830);
+}
+
+.custom-card {
+    margin-bottom: 10px;
+}
+
+.header {
+    width: 100vw;
+    margin: auto;
+    text-align: center;
+    margin-top: 3vh;
+    margin-bottom: 2vh;
+    color: white;
+}
